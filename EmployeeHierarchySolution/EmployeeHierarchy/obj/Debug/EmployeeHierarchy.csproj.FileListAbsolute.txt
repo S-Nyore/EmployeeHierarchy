@@ -1,0 +1,5 @@
+c:\users\app-pc\documents\visual studio 2015\Projects\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojResolveAssemblyReference.cache
+c:\users\app-pc\documents\visual studio 2015\Projects\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.dll
+c:\users\app-pc\documents\visual studio 2015\Projects\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+c:\users\app-pc\documents\visual studio 2015\Projects\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.dll
+c:\users\app-pc\documents\visual studio 2015\Projects\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb
